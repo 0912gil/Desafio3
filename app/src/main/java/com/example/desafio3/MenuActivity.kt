@@ -19,28 +19,19 @@ class MenuActivity : AppCompatActivity() {
 
         val btnCreate = findViewById<Button>(R.id.btnCreate)
         val btnRead = findViewById<Button>(R.id.btnRead)
-        val btnUpdate = findViewById<Button>(R.id.btnUpdate)
         val btnDelete = findViewById<Button>(R.id.btnDelete)
         val btnLogout = findViewById<Button>(R.id.btnLogout)
 
         btnCreate.setOnClickListener {
-            // startActivity(Intent(this, CreateActivity::class.java))
-            Toast.makeText(this, "Crear Registro", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, CrearRecursoActivity::class.java))
         }
 
         btnRead.setOnClickListener {
-            // startActivity(Intent(this, ListActivity::class.java))
-            Toast.makeText(this, "Ver Registros", Toast.LENGTH_SHORT).show()
-        }
-
-        btnUpdate.setOnClickListener {
-            // startActivity(Intent(this, UpdateActivity::class.java))
-            Toast.makeText(this, "Editar Registro", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, ListActivity::class.java))
         }
 
         btnDelete.setOnClickListener {
-            // startActivity(Intent(this, DeleteActivity::class.java))
-            Toast.makeText(this, "Eliminar Registro", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, DeleteActivity::class.java))
         }
 
         btnLogout.setOnClickListener {
