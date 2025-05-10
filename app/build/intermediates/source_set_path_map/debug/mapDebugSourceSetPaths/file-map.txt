@@ -1,0 +1,47 @@
+com.example.desafio3.app-browser-1.4.0-0 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\01d99dc79ad8f8ac57b7099c9aa1605e\transformed\browser-1.4.0\res
+com.example.desafio3.app-biometric-1.1.0-1 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\02c942834c3e36fb9811eb66709d0477\transformed\biometric-1.1.0\res
+com.example.desafio3.app-lifecycle-process-2.6.2-2 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\04df53954d1e96a91a7d57703818b7e9\transformed\lifecycle-process-2.6.2\res
+com.example.desafio3.app-startup-runtime-1.1.1-3 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\145ee1d25ce81565923ededaefb92dd8\transformed\startup-runtime-1.1.1\res
+com.example.desafio3.app-core-common-2.0.3-4 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\15efa3be55e9d6f77f7f2cc0ea2e7a23\transformed\core-common-2.0.3\res
+com.example.desafio3.app-coordinatorlayout-1.1.0-5 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\1a51b01e58dcf3aef5049cca9e441867\transformed\coordinatorlayout-1.1.0\res
+com.example.desafio3.app-lifecycle-viewmodel-2.6.2-6 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\1cdd768c4c482ad9fede86a781e0732b\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.desafio3.app-lifecycle-runtime-2.6.2-7 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\312c9c4dfee4b4068d7dcb6107c59023\transformed\lifecycle-runtime-2.6.2\res
+com.example.desafio3.app-profileinstaller-1.4.0-8 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\4230caacafb34110bef4c5b3ad8314b7\transformed\profileinstaller-1.4.0\res
+com.example.desafio3.app-activity-1.10.1-9 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\431bf8e31f78af2444ec8bc0dcab5295\transformed\activity-1.10.1\res
+com.example.desafio3.app-tracing-1.2.0-10 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\452894b5e9d40041722442eda959550a\transformed\tracing-1.2.0\res
+com.example.desafio3.app-transition-1.5.0-11 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\4980f624b6121a811be7d9bf144d96eb\transformed\transition-1.5.0\res
+com.example.desafio3.app-cardview-1.0.0-12 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\4fd54c80729e2b01c417cfec37b01213\transformed\cardview-1.0.0\res
+com.example.desafio3.app-annotation-experimental-1.4.1-13 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\504ae4531285228b04fba5c26f80eb77\transformed\annotation-experimental-1.4.1\res
+com.example.desafio3.app-constraintlayout-2.2.1-14 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\587ac4a484d67af7cf13d40f48efa5e7\transformed\constraintlayout-2.2.1\res
+com.example.desafio3.app-core-ktx-1.16.0-15 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\5a959c1351a4f9030c78d430661a0e3b\transformed\core-ktx-1.16.0\res
+com.example.desafio3.app-savedstate-1.2.1-16 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\5f9f5afb0ad99af2f60c7d36cca7bf55\transformed\savedstate-1.2.1\res
+com.example.desafio3.app-fragment-1.5.7-17 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\660db6ff32cdb8c13de739396576dc19\transformed\fragment-1.5.7\res
+com.example.desafio3.app-drawerlayout-1.1.1-18 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\672a4cd21235a3a8c75b21ae746f924d\transformed\drawerlayout-1.1.1\res
+com.example.desafio3.app-material-1.12.0-19 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\6c77a487cb2f89b599cf106902539de7\transformed\material-1.12.0\res
+com.example.desafio3.app-glide-4.15.1-20 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\6ddc196ddb0907d73304e7ca6aa03d01\transformed\glide-4.15.1\res
+com.example.desafio3.app-lifecycle-viewmodel-savedstate-2.6.2-21 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\6e6bf02912d7993401c39af29a5e4970\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.desafio3.app-core-1.16.0-22 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\741a32e834087335bcb869bce29666be\transformed\core-1.16.0\res
+com.example.desafio3.app-appcompat-resources-1.7.0-23 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\7b1a293b31b4fc1ab7ba7506bc7c3c18\transformed\appcompat-resources-1.7.0\res
+com.example.desafio3.app-core-viewtree-1.0.0-24 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\881844aa8ef51867965410da2f62b889\transformed\core-viewtree-1.0.0\res
+com.example.desafio3.app-appcompat-1.7.0-25 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\9840d3de0e066b9984e2e486178ac227\transformed\appcompat-1.7.0\res
+com.example.desafio3.app-emoji2-1.3.0-26 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\9c17c4267af4092ccddeb187e58acd50\transformed\emoji2-1.3.0\res
+com.example.desafio3.app-play-services-basement-18.4.0-27 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\a11443d1b19b41cff6a6b14d5bf7c492\transformed\play-services-basement-18.4.0\res
+com.example.desafio3.app-play-services-auth-21.1.1-28 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\a50db47e0efd81cbd3f844c8aeda885a\transformed\play-services-auth-21.1.1\res
+com.example.desafio3.app-play-services-base-18.5.0-29 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\ab543d3739b6b13c5b921d366fa009fb\transformed\play-services-base-18.5.0\res
+com.example.desafio3.app-viewpager2-1.0.0-30 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\cad87b1c97a26b0884f478d515693640\transformed\viewpager2-1.0.0\res
+com.example.desafio3.app-emoji2-views-helper-1.3.0-31 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\cd860539e3d287d1eaa15c7ff856a5fb\transformed\emoji2-views-helper-1.3.0\res
+com.example.desafio3.app-recyclerview-1.2.1-32 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\d402725fcf37019b715cad79b0434a5a\transformed\recyclerview-1.2.1\res
+com.example.desafio3.app-core-runtime-2.2.0-33 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\d4218bf06e45d7c49496c4ca74b8831b\transformed\core-runtime-2.2.0\res
+com.example.desafio3.app-lifecycle-livedata-core-2.6.2-34 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\d4fad280f6be5223ca64151f2e0be9c0\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.desafio3.app-credentials-1.5.0-35 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\dd3a02dd08f936af8847220bf04f7d6a\transformed\credentials-1.5.0\res
+com.example.desafio3.app-credentials-play-services-auth-1.5.0-36 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\e1f6f81dd6858c9a8e02d0261af7481c\transformed\credentials-play-services-auth-1.5.0\res
+com.example.desafio3.app-firebase-common-21.0.0-37 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\f3a9a18fff4108552218454b8d0454a0\transformed\firebase-common-21.0.0\res
+com.example.desafio3.app-lifecycle-livedata-2.6.2-38 C:\Users\ADMIN\.gradle\caches\8.10.2\transforms\f4bfb4e4d23b0d0e7d28d00944df02f7\transformed\lifecycle-livedata-2.6.2\res
+com.example.desafio3.app-google-services-39 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\build\generated\res\google-services\debug
+com.example.desafio3.app-pngs-40 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\build\generated\res\pngs\debug
+com.example.desafio3.app-resValues-41 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\build\generated\res\resValues\debug
+com.example.desafio3.app-packageDebugResources-42 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.desafio3.app-packageDebugResources-43 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.desafio3.app-debug-44 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.desafio3.app-debug-45 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\src\debug\res
+com.example.desafio3.app-main-46 C:\Users\ADMIN\Desktop\2025\Ciclo I\DSM\Lab\Desafio3\app\src\main\res

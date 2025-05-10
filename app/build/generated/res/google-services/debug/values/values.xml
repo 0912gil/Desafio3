@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">589769656361</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHdOHgwt9cwkl2P0xxG_KouifZ9Co6XcE</string>
+    <string name="google_app_id" translatable="false">1:589769656361:android:ace810b3706d47883d3438</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHdOHgwt9cwkl2P0xxG_KouifZ9Co6XcE</string>
+    <string name="google_storage_bucket" translatable="false">desafio3-9db11.firebasestorage.app</string>
+    <string name="project_id" translatable="false">desafio3-9db11</string>
+</resources>

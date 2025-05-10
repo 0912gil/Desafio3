@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#607D8B</color>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorPrimaryLight">#B2EBF2</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Desafio3</string>
+    <string name="gcm_defaultSenderId" translatable="false">589769656361</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHdOHgwt9cwkl2P0xxG_KouifZ9Co6XcE</string>
+    <string name="google_app_id" translatable="false">1:589769656361:android:ace810b3706d47883d3438</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHdOHgwt9cwkl2P0xxG_KouifZ9Co6XcE</string>
+    <string name="google_storage_bucket" translatable="false">desafio3-9db11.firebasestorage.app</string>
+    <string name="project_id" translatable="false">desafio3-9db11</string>
+    <style name="Base.Theme.Desafio3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+
+        
+        <item name="android:divider">@color/divider</item>
+    </style>
+    <style name="Theme.Desafio3" parent="Base.Theme.Desafio3"/>
+</resources>
