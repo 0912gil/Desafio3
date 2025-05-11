@@ -24,12 +24,12 @@ class MenuActivity : AppCompatActivity() {
         val btnLogout = findViewById<Button>(R.id.btnLogout)
 
         btnCreate.setOnClickListener {
-            // startActivity(Intent(this, CreateActivity::class.java))
+            startActivity(Intent(this, AddRecursoActivity::class.java))
             Toast.makeText(this, "Crear Registro", Toast.LENGTH_SHORT).show()
         }
 
         btnRead.setOnClickListener {
-            // startActivity(Intent(this, ListActivity::class.java))
+            startActivity(Intent(this, ListActivity::class.java))
             Toast.makeText(this, "Ver Registros", Toast.LENGTH_SHORT).show()
         }
 
